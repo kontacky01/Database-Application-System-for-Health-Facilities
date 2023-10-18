@@ -1,6 +1,6 @@
 # Database-Application-System-for-Health-Facilities
-Project Date: WINTER 2023
-Project Description
+Project Date: WINTER 2023<br>
+# Project Description
 This system builds on and extends the application developed in the warm-up project. It
 adds some new functionalities and requires a Graphical User Interface to facilitate user
 interaction with the system.
